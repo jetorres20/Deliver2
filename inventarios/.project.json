@@ -1,0 +1,19 @@
+{
+    "dataBinding": {
+        "/webapp/view/item_list.view.xml": {
+            "entitySet": "/productosSet"
+        }, 
+        "/webapp/view/item_stock_view.view.xml": {
+            "entitySet": "/productosSet"
+        }, 
+        "/webapp/view/item_details.view.xml": {
+            "entitySet": "/productosSet"
+        }, 
+        "/webapp/view/Dialog2.view.xml": {
+            "entitySet": ""
+        }, 
+        "/webapp/view/dialog_1.view.xml": {
+            "entitySet": ""
+        } 
+    }
+}
